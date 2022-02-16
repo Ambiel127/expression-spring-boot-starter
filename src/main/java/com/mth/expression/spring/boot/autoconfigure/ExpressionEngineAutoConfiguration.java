@@ -10,7 +10,6 @@ import org.springframework.context.annotation.Configuration;
  * 自动配置类
  *
  * @author MaTianHao
- * @date 2022/1/4
  */
 @Configuration
 @ConditionalOnWebApplication

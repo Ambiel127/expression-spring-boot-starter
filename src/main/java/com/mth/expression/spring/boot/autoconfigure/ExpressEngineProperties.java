@@ -6,7 +6,6 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  * 配置类
  *
  * @author MaTianHao
- * @date 2022/1/7
  */
 @ConfigurationProperties(prefix = "expression")
 public class ExpressEngineProperties {
